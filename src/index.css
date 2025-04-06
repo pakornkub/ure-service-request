@@ -1,0 +1,34 @@
+@import url('./styles/font.css');
+
+@import 'tailwindcss';
+@config "./mui-treasury/tailwind-preset/material-ui-tailwind-preset.js";
+
+@theme {
+  --font-primary: 'Inter', 'NotoSansThai', sans-serif;
+}
+
+@layer components {
+  * {
+    @apply font-primary font-bold scroll-smooth;
+  }
+
+  .super-app-theme--header {
+    @apply bg-action-disabled;
+  }
+
+  .MuiTextField-root .Mui-disabled {
+    @apply bg-action-disabled;
+  }
+
+  .Mui-disabled {
+    @apply bg-action-disabled;
+  }
+
+  .MuiFormLabel-root {
+    @apply bg-transparent;
+  }
+
+  .swal2-container {
+    @apply z-[100000];
+  }
+}

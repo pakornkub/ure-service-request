@@ -1,0 +1,122 @@
+/*#region NotoSansThai*/
+@font-face {
+  font-family: 'NotoSansThai';
+  src: url('../assets/fonts/noto-sans-thai/NotoSansThai-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  unicode-range: U+0E00–U+0E7F;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NotoSansThai';
+  src: url('../assets/fonts/noto-sans-thai/NotoSansThai-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  unicode-range: U+0E00–U+0E7F;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NotoSansThai';
+  src: url('../assets/fonts/noto-sans-thai/NotoSansThai-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  unicode-range: U+0E00–U+0E7F;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NotoSansThai';
+  src: url('../assets/fonts/noto-sans-thai/NotoSansThai-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  unicode-range: U+0E00–U+0E7F;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NotoSansThai';
+  src: url('../assets/fonts/noto-sans-thai/NotoSansThai-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  unicode-range: U+0E00–U+0E7F;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NotoSansThai';
+  src: url('../assets/fonts/noto-sans-thai/NotoSansThai-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  unicode-range: U+0E00–U+0E7F;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NotoSansThai';
+  src: url('../assets/fonts/noto-sans-thai/NotoSansThai-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  unicode-range: U+0E00–U+0E7F;
+  font-display: swap;
+}
+/*#endregion*/
+
+/*#region Inter*/
+@font-face {
+  font-family: 'Inter';
+  src: url('../assets/fonts/inter/Inter-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('../assets/fonts/inter/Inter-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('../assets/fonts/inter/Inter-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('../assets/fonts/inter/Inter-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('../assets/fonts/inter/Inter-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('../assets/fonts/inter/Inter-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('../assets/fonts/inter/Inter-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+/*#endregion*/
