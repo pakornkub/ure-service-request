@@ -1,0 +1,23 @@
+.sidebar {
+  @apply text-sm z-[1300] fixed !important
+}
+
+/* width */
+.sidebar ::-webkit-scrollbar {
+  @apply bg-white w-2;
+}
+
+/* Track */
+.sidebar ::-webkit-scrollbar-track {
+  @apply bg-white mt-16;
+}
+
+/* Handle */
+.sidebar ::-webkit-scrollbar-thumb {
+  @apply bg-transparent rounded-md;
+}
+
+/* Handle on hover */
+.sidebar ::-webkit-scrollbar-thumb:hover {
+  @apply bg-gray-400 ;
+}
